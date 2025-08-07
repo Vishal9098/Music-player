@@ -1,4 +1,10 @@
 # Django based music streaming website
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> afbdc35e89a2d846105cebce6c25184e9a0ea86d
 
 ### Website Preview
 #### Home Page
@@ -42,3 +48,9 @@ $ python manage.py runserver
 ---
 
 
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> afbdc35e89a2d846105cebce6c25184e9a0ea86d
